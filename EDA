@@ -1,0 +1,42 @@
+import pandas as pd
+import numpy as np
+
+
+# Load Dataset 
+df = pd.read_csv("matches.csv")
+
+# Basic Info
+print("Dataset Info:")
+print(df.info())
+
+#Top 5 rows 
+df.head()
+
+#bottom 5 rows 
+df.tail()
+
+# Shape of Dataset
+print(f"\nShape of Dataset: {df.shape}")
+
+# Column Names
+print(df.columns)
+
+#slicing the records
+df.loc[0:2]
+
+
+# Summary Statistics
+print("\nSummary Statistics:")
+print(df.describe())
+
+#To know the dupicates
+df.duplicated()
+
+#delete the duplicates
+df.drop_duplicates(inplace=True)
+
+# Check for Missing Values
+print(df.isnull().sum())
+
+#Fill the Null values to zero
+df.fillna(0)
