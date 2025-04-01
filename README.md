@@ -29,6 +29,7 @@ Edit
 │   ├── train_model.py           # Script for model training  
 
 ⚙️ Setup & Installation
+
 1️⃣ Clone the Repository
 
 bash
