@@ -1,6 +1,12 @@
 # CricketIQ_Infosys_Internship_Feb2025
-The Indian Premier League (IPL) is a popular Twenty20 cricket tournament held annually in India. This project aims to perform exploratory data analysis and create data visualizations on an IPL dataset.
+The Indian Premier League (IPL) is a popular Twenty20 cricket tournament held annually in India. This project aims to perform exploratory data analysis (EDA) and create data visualizations on an IPL dataset, along with predicting the winner of an IPL match using historical data and machine learning models.
 
+It takes match details as input and predicts the winning probabilities using a trained **Random Forest model**.
+```
+🔹 Predict IPL match winners using a machine learning model
+🔹 Simple UI with dropdowns & numeric inputs
+🔹 Results shown in a bar chart (win probabilities)
+```
 ## 📌 GitHub Repository:
 [CricketIQ_Infosys_Internship_Feb2025](https://github.com/AabidMK/CricketIQ_Infosys_Internship_Feb2025)
 
@@ -152,8 +158,7 @@ This project is a team collaboration, guided by our mentor and developed by a de
 
 **Team Members:**
 ```
-- Abhishek
-- Jyoti
+- Abhishek Jyoti
 - Akash V
 - Amol Deshmukh
 - Anshika Sharma
@@ -163,18 +168,23 @@ This project is a team collaboration, guided by our mentor and developed by a de
 - Atmakuri Lahari
 - Ayshwarya Karthikeyan
 - Balaji Khavane
-- Bhavya Sri Dhayanish S
-- Dintakurthi Aakansha
-- Sai Durga Bhavani Durga
-- Jaya Malleswari Tommandru
+- Bhavya Sri
+- Dhayanish S
+- Dintakurthi Aakansha Sai
+- Durga Bhavani
+- Durga Jaya Malleswari Tommandru
 - Vegavathi GB
 - Giriraj SA
 - Harsha Vardini Gopireddy
-- Jaibalaji Jyothirmayi Ramisetti
+- Jaibalaji
+- Jyothirmayi Ramisetti
 - Keerthiga Devi M
 - Nagesh Guguloth
-- Prince Tamil Selvi
+- Prince
+- Tamil Selvi
 - Vaishnavi Ravikumar
 - Vignesh A
 ```
+
+📌 Feel free to contribute! 🚀
 
