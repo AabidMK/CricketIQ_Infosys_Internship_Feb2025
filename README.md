@@ -6,10 +6,12 @@ This project predicts the winner of an IPL match using historical data and machi
 📌 GitHub Repository: CricketIQ_Infosys_Internship_Feb2025
 
 📂 Project Structure
+
 graphql
 Copy
 Edit
 📂 CricketIQ_Infosys_Internship_Feb2025/
+
 │── 📜 README.md                # Project documentation  
 │── 📜 requirements.txt         # List of dependencies  
 │── 📂 datasets/                 # Raw datasets  
@@ -25,6 +27,7 @@ Edit
 │── 📂 scripts/                  # Python scripts for model & UI  
 │   ├── streamlit_app.py         # Streamlit UI script  
 │   ├── train_model.py           # Script for model training  
+
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
 
@@ -33,6 +36,7 @@ Copy
 Edit
 git clone https://github.com/AabidMK/CricketIQ_Infosys_Internship_Feb2025.git  
 cd CricketIQ_Infosys_Internship_Feb2025  
+
 2️⃣ Create & Activate Virtual Environment
 
 bash
@@ -41,6 +45,7 @@ Edit
 python -m venv venv  
 source venv/bin/activate  # Mac/Linux  
 venv\Scripts\activate     # Windows  
+
 3️⃣ Install Dependencies
 
 bash
@@ -60,6 +65,7 @@ streamlit==1.33.0
 joblib==1.3.2
 pickle-mixin==1.0.2
 matplotlib.pyplot==3.8.2
+
 📌 Dependencies needed for:
 
 Data processing (numpy, pandas)
