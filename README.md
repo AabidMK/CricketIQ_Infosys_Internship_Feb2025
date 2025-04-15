@@ -170,6 +170,7 @@ This project is a team collaboration, guided by our mentor and developed by a de
 - Balaji Khavane
 - Bhavya Sri
 - Dhayanish S
+- Dikshansh Kaushal
 - Dintakurthi Aakansha Sai
 - Durga Bhavani
 - Durga Jaya Malleswari Tommandru
